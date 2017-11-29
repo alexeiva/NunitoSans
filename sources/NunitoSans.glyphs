@@ -1,8 +1,7 @@
 {
 .appVersion = "1075";
 DisplayStrings = (
-"OOA/Che-cy OOHHA/Che-cy HH\012OOAOOOHHAOHH\012OOA/U-cy OOHHA/U-cy HH\012OOA/Ze-cy OOHHA/Ze-cy HH\012OOA/be-cy ooHHA/be-cy nn\012OOA/che-cy ooHHA/che-cy nn\012OOAhooHHAhnn\012OOAsooHHAsnn\012OOA/te-cy ooHHA/te-cy nn\012OOAuooHHAunn\012OOA/ze-cy ooHHA/ze-cy nn\012OOBOOOHHBOHH\012OOBhooHHBhnn\012OO/Be-cy/De-cy OOHH/Be-cy/De-cy HH\012OO/Be-cy/Ia-cy OOHH/Be-cy/Ia-cy HH\012OO/Ge-cy AOOHH/Ge-cy AHH\012OO/Ge-cy/De-cy OOHH/Ge-cy/De-cy HH\012OO/Ge-cy/El-cy OOHH/Ge-cy/El-cy HH\012OO/Ge-cy/Ia-cy OOHH/Ge-cy/Ia-cy HH\012OO/Ge-cy OOOHH/Ge-cy OHH\012OO/Ge-cy aooHH/Ge-cy ann\012OO/Ge-cy/be-cy ooHH/Ge-cy/be-cy nn\012OO/Ge-cy/che-cy ooHH/Ge-cy/che-cy nn\012OO/Ge-cy/de-cy ooHH/Ge-cy/de-cy nn\012OO/Ge-cy/el-cy ooHH/Ge-cy/el-cy nnTn\012OO/Ge-cy/ereversed-cy ooHH/Ge-cy/ereversed-cy nn\012OO/Ge-cy hooHH/Ge-cy hnn\012OO/Ge-cy/ia-cy ooHH/Ge-cy/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OO/Ge-cy sooHH/Ge-cy snn\012OO/Ge-cy/te-cy ooHH/Ge-cy/te-cy nn\012OO/Ge-cy uooHH/Ge-cy unn\012OO/Ge-cy/ze-cy ooHH/Ge-cy/ze-cy nn\012OO/Ge-cy vooHH/Ge-cy vnn'/el-cy O/Ge-cy xooHH/Ge-cy xnn\012OO/Ge-cy/zedieresis-cy ooHH/Ge-cy/zedieresis-cy nn\012OOHOOOHHHOHH\012OOHhooHHHhnn\012OOHsooHHHsnn\012OO/Ka-cy/Che-cy OOHH/Ka-cy/Che-cy HH\012OO/Ka-cy/Ereversed-cy OOHH/Ka-cy/Ereversed-cy HH\012OO/Ka-cy OOOH/Ka-cy H/Ka-cy OHH\012OO/Ka-cy SOOHH/Ka-cy SHH\012OO/Ka-cy/Ze-cy OOHH/Ka-cy/Ze-cy HH\012OO/Ka-cy aooHH/Ka-cy ann\012OO/Ka-cy/be-cy ooHH/Ka-cy/be-cy nn\012OO/Ka-cy/che-cy ooHH/Ka-cy/che-cy nn\012OO/Ka-cy/el-cy ooHH/Ka-cy/el-cy nn\012OO/Ka-cy hooHH/Ka-cy hnn\012OO/Ka-cy -OOHH/Ka-cy -HH\012OO/Ka-cy nooHH/Ka-cy nnn\012OO/Ka-cy oooHH/Ka-cy onn\012OO/Ka-cy 'OOHH/Ka-cy 'HH\012OO/Ka-cy sooHH/Ka-cy snn\012OO/Ka-cy/te-cy ooHH/Ka-cy/te-cy nn\012OO/Ka-cy uooHH/Ka-cy unn\012OO/Ka-cy/ze-cy ooHH/Ka-cy/ze-cy nn\012OO/Ka-cy vooHH/Ka-cy vnn\012OOO/De-cy OOHHO/De-cy HH\012OOO/El-cy OOHHO/El-cy HH\012OOO/U-cy OOHHO/U-cy HH\012OOOXOOHHOXHH\012OOO/Ze-cy OOHHO/Ze-cy HH\012OOO/de-cy ooHHO/de-cy nn\012OOO/el-cy ooHHO/el-cy nn\012OOOhooHHOhnn\012OOOsooHHOsnn\012OOO/ze-cy ooHHO/ze-cy nn\012OO/Softsign-cy AOOHH/Softsign-cy AHH\012OO/Softsign-cy/De-cy OOHH/Softsign-cy/De-cy HH\012OO/Softsign-cy TOOHH/Softsign-cy THH\012OO/Softsign-cy/U-cy OOHH/Softsign-cy/U-cy HH\012OO/Softsign-cy hooHH/Softsign-cy hnn\012OO/Softsign-cy XOOHH/Softsign-cy XHH\012OOT/De-cy OOHHT/De-cy HH\012OOT/El-cy OOHHT/El-cy HH\012OOTOOOHHTOHH\012OOT/be-cy ooHHT/be-cy nn\012OOT/che-cy ooHHT/che-cy nn\012OOT/de-cy ooHHT/de-cy nn\012OOT/el-cy ooHHT/el-cy nn\012OOT/ereversed-cy ooHHT/ereversed-cy nn\012OOThooHHThnn\012OOT/ia-cy ooHHT/ia-cy nn\012OOTnooHHTnnn\012OOToooHHTonn\012OOTsooHHTsnn\012OOT/te-cy ooHHT/te-cy nn\012OOTuooHHTunn\012OOT/ze-cy ooHHT/ze-cy nn\012OO/Tse-cy/Che-cy OOHH/Tse-cy/Che-cy HH\012OO/Tse-cy OOOHH/Tse-cy OHH\012OO/Tse-cy TOOHH/Tse-cy THH\012OO/Tse-cy/U-cy OOHH/Tse-cy/U-cy HH\012OO/Tse-cy/Ze-cy OOHH/Tse-cy/Ze-cy HH\012OO/Tse-cy/el-cy ooHH/Tse-cy/el-cy nn\012OO/Tse-cy hooHH/Tse-cy hnn\012OO/Tse-cy -OOHH/Tse-cy -HH\012OO/Tse-cy oooHH/Tse-cy onn\012OO/Tse-cy 'OOHH/Tse-cy 'HH\012OO/Tse-cy/te-cy ooHH/Tse-cy/te-cy nn\012OO/Tse-cy vooHH/Tse-cy vnn\012OO/Tshe-cy/De-cy OOHH/Tshe-cy/De-cy HH\012OO/U-cy/De-cy OOHH/U-cy/De-cy HH\012OO/U-cy OOOHH/U-cy OHH\012OO/U-cy/el-cy ooHH/U-cy/el-cy nn\012OO/U-cy hooHH/U-cy hnn\012OO/U-cy nooHH/U-cy nnn\012OO/U-cy oooHH/U-cy onn\012OO/U-cy sooHH/U-cy snn\012OO/U-cy/te-cy ooHH/U-cy/te-cy nn\012OO/U-cy uooHH/U-cy unn\012OO/U-cy/ze-cy ooHH/U-cy/ze-cy nn\012OOXOOOHHXOHH\012OOXhooHHXhnn\012OOXoooHHXonn\012OOXsooHHXsnn\012OOX/te-cy ooHHX/te-cy nn\012oob/De-cy OOnnb/De-cy HH\012ooeTOOnneTHH\012ooe/U-cy OOnne/U-cy HH\012ooe/de-cy oonne/de-cy nn\012ooe/te-cy oonne/te-cy nn\012oo/ge-cy/De-cy OOnn/ge-cy/De-cy HH\012oo/ge-cy TOTOOnn/ge-cy THH\012oo/ge-cy/U-cy OOnn/ge-cy/U-cy HH\012oo/ge-cy/de-cy oonn/ge-cy/de-cy nn\012oo/ge-cy/el-cy oonn/ge-cy/el-cy nn\012oo/ge-cy/ia-cy oonn/ge-cy/ia-cy nn\012oo/ge-cy .OOnn/ge-cy .HH\012oo/ge-cy/te-cy oonn/ge-cy/te-cy nn\012oo/ge-cy/ze-cy oonn/ge-cy/ze-cy nn\012oo/ge-cy XOOnn/ge-cy XHH\012OO-/Che-cy OOHH-/Che-cy HH\012OO-/De-cy OOHH-/De-cy HH\012OO-/El-cy OOHH-/El-cy HH\012OO-/U-cy OOHH-/U-cy HH\012OO-/de-cy ooHH-/de-cy nn\012OO-/el-cy ooHH-/el-cy nn\012oo/Ka-cy/U-cy OOnn/Ka-cy/U-cy HH\012oonTOOnnnTHH\012oon/U-cy OOnnn/U-cy HH\012oooAOOnnoAHH\012ooo/Che-cy OOnno/Che-cy HH\012ooo/De-cy OOnno/De-cy HH\012oooHOOnnoHHH\012oooTOOnnoTHH\012ooo/U-cy OOnno/U-cy HH\012oooXOOnnoXHH\012ooo/Ze-cy OOnno/Ze-cy HH\012ooo/be-cy oonno/be-cy nn\012ooo/de-cy oonno/de-cy nn\012ooo/el-cy oonno/el-cy nn\012ooo/ia-cy oonno/ia-cy nn\012ooo/te-cy oonno/te-cy nn\012oooxoxonnoxnn\012oooyoonnoynn\012ooo/ze-cy oonno/ze-cy nn\012OO.OOOHH.OHH\012OO./che-cy ooHH./che-cy nn\012OO./te-cy ooHH./te-cy nn\012OO'/De-cy OOHH'/De-cy HH\012OO'/El-cy OOHH'/El-cy HH\012OO'/Ze-cy OOHH'/Ze-cy HH\012OO'/che-cy ooHH'/che-cy nn\012OO'/de-cy ooHH'/de-cy nn\012OO'/el-cy ooHH'/el-cy nn\012OO'/ereversed-cy ooHH'/ereversed-cy nn\012OO'/ia-cy ooHH'/ia-cy nn\012OO'/ze-cy ooHH'/ze-cy nn\012oos/Che-cy OOnns/Che-cy HH\012oosTOOnnsTHH\012oos/U-cy OOnns/U-cy HH\012oosXOOnnsXHH\012oos/Ze-cy OOnns/Ze-cy HH\012oos/be-cy oonns/be-cy nn\012oo/softsign-cy/Che-cy OOnn/softsign-cy/Che-cy HH\012oo/softsign-cy OOOnn/softsign-cy OHH\012oo/softsign-cy TOOnn/softsign-cy THH\012oo/softsign-cy/U-cy OOnn/softsign-cy/U-cy HH\012oo/softsign-cy/Ze-cy OOnn/softsign-cy/Ze-cy HH\012oo/softsign-cy/be-cy oonn/softsign-cy/be-cy nn\012oo/softsign-cy/ia-cy oonn/softsign-cy/ia-cy nn\012oo/softsign-cy/quoteleft OOnn/softsign-cy/quoteleft HH\012oo/softsign-cy 'OOnn/softsign-cy 'HH\012oo/softsign-cy/te-cy oonn/softsign-cy/te-cy nn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/softsign-cy yoonn/softsign-cy ynn\012oo/softsign-cy/ze-cy oonn/softsign-cy/ze-cy nn\012oo/softsign-cy/trademark OOnn/softsign-cy/trademark HH\012oo/softsign-cy voonn/softsign-cy vnn\012oo/softsign-cy xoonn/softsign-cy xnn\012oo/te-cy AOOnn/te-cy AHH\012oo/te-cy TOOnn/te-cy THH\012oo/te-cy/U-cy OOnn/te-cy/U-cy HH\012oo/te-cy/de-cy oonn/te-cy/de-cy nn\012oo/te-cy/el-cy oonn/te-cy/el-cy nn\012oo/te-cy .OOnn/te-cy .HH\012oo/te-cy/yat-cy oonn/te-cy/yat-cy nn\012oo/te-cy XOOnn/te-cy XHH\012oo/tse-cy TOOnn/tse-cy THH\012oo/tse-cy/U-cy OOnn/tse-cy/U-cy HH\012oo/tse-cy/be-cy oonn/tse-cy/be-cy nn\012oo/tse-cy/che-cy oonn/tse-cy/che-cy nn\012oo/tse-cy -OOnn/tse-cy -HH\012oo/tse-cy/quoteleft OOnn/tse-cy/quoteleft HH\012oo/tse-cy 'OOnn/tse-cy 'HH\012oo/tse-cy/trademark OOnn/tse-cy/trademark HH\012oo/tse-cy voonn/tse-cy vnn\012oouAOOnnuAHH\012oou/Che-cy OOnnu/Che-cy HH\012oouHOOnnuHHH\012oouOOOnnuOHH\012oouTOOnnuTHH\012oou/U-cy OOnnu/U-cy HH\012oou/Ze-cy OOnnu/Ze-cy HH\012oou/be-cy oonnu/be-cy nn\012oouooonnuonn\012oo/ve-cy/Che-cy OOnn/ve-cy/Che-cy HH\012oo/ve-cy HOOnn/ve-cy HHH\012oo/ve-cy TOOnn/ve-cy THH\012oo/ve-cy/U-cy OOnn/ve-cy/U-cy HH\012oo/ve-cy XOOnn/ve-cy XHH\012oo/ve-cy/Ze-cy OOnn/ve-cy/Ze-cy HH\012oo/ve-cy/be-cy oonn/ve-cy/be-cy nn\012oo/ve-cy/che-cy oonn/ve-cy/che-cy nn\012oo/ve-cy/de-cy oonn/ve-cy/de-cy nn\012oo/ve-cy/el-cy oonn/ve-cy/el-cy nn\012oo/ve-cy/te-cy oonn/ve-cy/te-cy nn\012oo/ve-cy xoonn/ve-cy xnn\012oo/ve-cy yoonn/ve-cy ynn\012oo/ve-cy/ze-cy oonn/ve-cy/ze-cy nn\012oo/ve-cy voonn/ve-cy vnn\012oo/ve-cy xoonn/ve-cy xnn\012ooxhoonnxhnn\012ooxooonnxonn\012oox/ze-cy oonnx/ze-cy nn\012ooyOOOnnyOHH\012ooyTOOnnyTHH\012ooy/U-cy OOnny/U-cy HH\012ooyhoonnyhnn\012ooy/yat-cy oonny/yat-cy nn\012ooy/ze-cy oonny/ze-cy nn\012ooyXOOnnyXHH\012OOB/De-cy OOHHB/De-cy HH\012OOB/El-cy OOHHB/El-cy HH\012OOB/Ia-cy OOHHB/Ia-cy HH\012OOB/U-cy OOHHB/U-cy HH\012OOB/de-cy ooHHB/de-cy nn\012OOB/ia-cy ooHHB/ia-cy nn\012OO/Ge-cy nooHH/Ge-cy nnn\012OO/Ge-cy oooHH/Ge-cy onn\012OOP/De-cy OOHHP/De-cy HH\012OOP/El-cy OOHHP/El-cy HH\012OO/Izhitsa-cy/De-cy OOHH/Izhitsa-cy/De-cy HH\012OO/Izhitsa-cy/El-cy OOHH/Izhitsa-cy/El-cy HH\012OO/Izhitsa-cy/Ze-cy OOHH/Izhitsa-cy/Ze-cy HH\012OO/Izhitsa-cy/be-cy ooHH/Izhitsa-cy/be-cy nn\012OO/Izhitsa-cy/che-cy ooHH/Izhitsa-cy/che-cy nn\012OO/Izhitsa-cy/de-cy ooHH/Izhitsa-cy/de-cy nn\012OO/Izhitsa-cy/el-cy ooHH/Izhitsa-cy/el-cy nn\012OO/Izhitsa-cy/ereversed-cy ooHH/Izhitsa-cy/ereversed-cy nn\012OO/Izhitsa-cy/ia-cy ooHH/Izhitsa-cy/ia-cy nn\012OO/Izhitsa-cy nooHH/Izhitsa-cy nnn\012OO/Izhitsa-cy/te-cy ooHH/Izhitsa-cy/te-cy nn\012OO/Izhitsa-cy/ze-cy ooHH/Izhitsa-cy/ze-cy nn\012OOX/be-cy ooHHX/be-cy nn\012oo/izhitsa-cy/De-cy OOnnv/De-cy HH\012oo/izhitsa-cy TOOnnvTHH\012oo/izhitsa-cy/U-cy OOnnv/U-cy HH\012oo/izhitsa-cy/de-cy oonnv/de-cy nn\012oo/izhitsa-cy/el-cy oonnv/el-cy nn\012oo/izhitsa-cy/ze-cy oonnv/ze-cy nn\012ooxOOOnnxOHH\012ooxTOOnnxTHH\012oox/U-cy OOnnx/U-cy HH\012oox/be-cy oonnx/be-cy nn\012oox/che-cy oonnx/che-cy nn\012oox/de-cy oonnx/de-cy nn\012oox/ereversed-cy oonnx/ereversed-cy nn\012ooxhoonnxhnn\012oox/ze-cy oonnx/ze-cy nn",
-"/Zhe-cy"
+"/Yusbig-cy"
 );
 classes = (
 {
@@ -57628,7 +57627,7 @@ unicode = 0462;
 {
 color = 3;
 glyphname = "Yusbig-cy";
-lastChange = "2017-11-29 13:38:35 +0000";
+lastChange = "2017-11-29 15:46:24 +0000";
 layers = (
 {
 background = {
@@ -57861,43 +57860,43 @@ paths = (
 {
 closed = 1;
 nodes = (
-"175 0 LINE",
-"253 212 LINE SMOOTH",
-"276 272 OFFCURVE",
-"312 303 OFFCURVE",
-"385 303 CURVE SMOOTH",
-"428 303 LINE",
-"424 0 LINE",
-"582 0 LINE",
-"586 303 LINE",
-"629 303 LINE SMOOTH",
-"702 303 OFFCURVE",
-"737 272 OFFCURVE",
-"757 212 CURVE SMOOTH",
-"831 0 LINE",
-"1004 0 LINE",
-"913 239 LINE SMOOTH",
-"874 341 OFFCURVE",
-"826 416 OFFCURVE",
-"658 416 CURVE SMOOTH",
-"650 416 LINE",
-"901 705 LINE",
-"131 705 LINE",
-"366 416 LINE",
-"358 416 LINE SMOOTH",
-"190 416 OFFCURVE",
-"140 341 OFFCURVE",
-"99 239 CURVE SMOOTH",
-"2 0 LINE"
+"183 0 LINE",
+"261 212 LINE SMOOTH",
+"284 272 OFFCURVE",
+"320 303 OFFCURVE",
+"393 303 CURVE SMOOTH",
+"436 303 LINE",
+"432 0 LINE",
+"590 0 LINE",
+"594 303 LINE",
+"637 303 LINE SMOOTH",
+"710 303 OFFCURVE",
+"745 272 OFFCURVE",
+"765 212 CURVE SMOOTH",
+"839 0 LINE",
+"1012 0 LINE",
+"921 239 LINE SMOOTH",
+"882 341 OFFCURVE",
+"834 416 OFFCURVE",
+"666 416 CURVE SMOOTH",
+"658 416 LINE",
+"909 705 LINE",
+"139 705 LINE",
+"374 416 LINE",
+"366 416 LINE SMOOTH",
+"198 416 OFFCURVE",
+"148 341 OFFCURVE",
+"107 239 CURVE SMOOTH",
+"10 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"348 614 LINE",
-"675 614 LINE",
-"479 370 LINE",
-"539 367 LINE"
+"356 614 LINE",
+"683 614 LINE",
+"487 370 LINE",
+"547 367 LINE"
 );
 }
 );
@@ -57908,47 +57907,47 @@ paths = (
 {
 closed = 1;
 nodes = (
-"175 0 LINE",
-"253 212 LINE SMOOTH",
-"276 272 OFFCURVE",
-"312 303 OFFCURVE",
-"385 303 CURVE SMOOTH",
-"428 303 LINE",
-"424 0 LINE",
-"582 0 LINE",
-"586 303 LINE",
-"629 303 LINE SMOOTH",
-"702 303 OFFCURVE",
-"737 272 OFFCURVE",
-"757 212 CURVE SMOOTH",
-"831 0 LINE",
-"1004 0 LINE",
-"913 239 LINE SMOOTH",
-"874 341 OFFCURVE",
-"826 416 OFFCURVE",
-"658 416 CURVE SMOOTH",
-"650 416 LINE",
-"901 705 LINE",
-"131 705 LINE",
-"366 416 LINE",
-"358 416 LINE SMOOTH",
-"190 416 OFFCURVE",
-"140 341 OFFCURVE",
-"99 239 CURVE SMOOTH",
-"2 0 LINE"
+"183 0 LINE",
+"261 212 LINE SMOOTH",
+"284 272 OFFCURVE",
+"320 303 OFFCURVE",
+"393 303 CURVE SMOOTH",
+"436 303 LINE",
+"432 0 LINE",
+"590 0 LINE",
+"594 303 LINE",
+"637 303 LINE SMOOTH",
+"710 303 OFFCURVE",
+"745 272 OFFCURVE",
+"765 212 CURVE SMOOTH",
+"839 0 LINE",
+"1012 0 LINE",
+"921 239 LINE SMOOTH",
+"882 341 OFFCURVE",
+"834 416 OFFCURVE",
+"666 416 CURVE SMOOTH",
+"658 416 LINE",
+"909 705 LINE",
+"139 705 LINE",
+"374 416 LINE",
+"366 416 LINE SMOOTH",
+"198 416 OFFCURVE",
+"148 341 OFFCURVE",
+"107 239 CURVE SMOOTH",
+"10 0 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"348 614 LINE",
-"675 614 LINE",
-"479 370 LINE",
-"539 367 LINE"
+"356 614 LINE",
+"683 614 LINE",
+"487 370 LINE",
+"547 367 LINE"
 );
 }
 );
-width = 1006;
+width = 1022;
 }
 );
 leftKerningGroup = "Zhe-cy";
@@ -60157,7 +60156,7 @@ unicode = 04C0;
 },
 {
 glyphname = "Zhebreve-cy";
-lastChange = "2017-11-29 13:38:27 +0000";
+lastChange = "2017-11-29 15:46:06 +0000";
 layers = (
 {
 components = (
@@ -60179,11 +60178,11 @@ name = "Zhe-cy";
 },
 {
 name = "brevecomb-cy.case";
-transform = "{1, 0, 0, 1, 271, 0}";
+transform = "{1, 0, 0, 1, 279, 0}";
 }
 );
 layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
-width = 1050;
+width = 1066;
 }
 );
 leftKerningGroup = "Zhe-cy";
@@ -60874,7 +60873,7 @@ unicode = 04DA;
 },
 {
 glyphname = "Zhedieresis-cy";
-lastChange = "2017-11-29 13:38:27 +0000";
+lastChange = "2017-11-29 15:46:06 +0000";
 layers = (
 {
 components = (
@@ -60896,11 +60895,11 @@ name = "Zhe-cy";
 },
 {
 name = dieresiscomb.case;
-transform = "{1, 0, 0, 1, 375, 0}";
+transform = "{1, 0, 0, 1, 383, 0}";
 }
 );
 layerId = "E1B555A7-F4E1-459C-9C1A-AE952106EEF9";
-width = 1050;
+width = 1066;
 }
 );
 leftKerningGroup = "Zhe-cy";
