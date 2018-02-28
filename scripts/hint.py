@@ -8,7 +8,7 @@ BASEDIR = os.path.abspath(
 
 export_dir = '%s/fonts/TTF' % BASEDIR
 
-ref_file = '%s/sources/ttfa_hinting_reference/Nunito-Regular.ttf' % BASEDIR # reference file for hinting
+ref_file = '%s/sources/ttfa_hinting_reference/Nunito-Regular.ttf ' % BASEDIR # reference file for hinting
 settings = "-v -a nnn --reference=%s" % ref_file    # TTFAutohint settings
 
 source_dir = BASEDIR + '/fonts/TTF-unhinted' # Folder with unhinted fonts
